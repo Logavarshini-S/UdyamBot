@@ -1,0 +1,282 @@
+[
+    {
+      "scheme_name": "PMEGP (Prime Minister's Employment Generation Programme)",
+      "description": "Credit-linked subsidy scheme for setting up micro-enterprises in non-farm sectors.",
+      "eligibility": "Individuals above 18 years, SHGs, Institutions. General category - 15% subsidy, Special categories (SC/ST/OBC/Women/PH/etc.) - 25-35% subsidy.",
+      "benefits": "15-35% subsidy. Max. project cost: ₹25 lakh (manufacturing), ₹10 lakh (service). Margin money: 5-10%.",
+      "how_to_apply": "Online through KVIC portal or designated banks."
+    },
+    {
+      "scheme_name": "CLCSS (Credit Linked Capital Subsidy Scheme)",
+      "description": "Technology upgradation for small enterprises to improve competitiveness.",
+      "eligibility": "Existing MSMEs with Udyam Registration in 51 specified sectors.",
+      "benefits": "15% capital subsidy (max ₹15 lakh) on institutional finance for new technology/machinery.",
+      "how_to_apply": "Through participating banks/NBFCs with project report."
+    },
+    {
+      "scheme_name": "Udyam Registration",
+      "description": "Free online registration for MSMEs to access benefits.",
+      "eligibility": "Micro: Investment < ₹1Cr & Turnover < ₹5Cr | Small: Investment < ₹10Cr & Turnover < ₹50Cr | Medium: Investment < ₹50Cr & Turnover < ₹250Cr.",
+      "benefits": "Collateral-free loans, tax rebates, subsidy access, preference in govt tenders.",
+      "how_to_apply": "Online via Udyam Registration Portal (Aadhaar + PAN required)."
+    },
+    {
+      "scheme_name": "MUDRA Loan (Pradhan Mantri MUDRA Yojana)",
+      "description": "Funding for non-corporate small businesses.",
+      "eligibility": "Small manufacturing/trading/service businesses (including vendors, shopkeepers).",
+      "benefits": "Loans up to ₹10 lakh under 3 categories: Shishu (₹50k), Kishore (₹50k-5L), Tarun (₹5L-10L). Interest rate: 7-12%.",
+      "how_to_apply": "Through participating banks/NBFCs/Microfinance institutions."
+    },
+    {
+      "scheme_name": "Stand-Up India",
+      "description": "Promotes entrepreneurship among SC/ST and women.",
+      "eligibility": "SC/ST/Women entrepreneurs setting up greenfield enterprises (manufacturing/services/trading).",
+      "benefits": "Bank loan ₹10 lakh to ₹1Cr (covering 75% of project cost). Margin money: 25%.",
+      "how_to_apply": "Through 1,200+ designated bank branches with DIC certificate."
+    },
+    {
+      "scheme_name": "ZED Scheme (Zero Defect Zero Effect)",
+      "description": "Certification for quality manufacturing with minimal environmental impact.",
+      "eligibility": "Manufacturing MSMEs with Udyam Registration.",
+      "benefits": "80% subsidy on certification fees + additional incentives for women-led units.",
+      "how_to_apply": "Through Quality Council of India (QCI) portal."
+    },
+    {
+      "scheme_name": "ASPIRE (A Scheme for Promotion of Innovation and Rural Entrepreneurship)",
+      "description": "Promotes agro-based rural startups.",
+      "eligibility": "Entrepreneurs/Farmers/FPOs in rural areas.",
+      "benefits": "Seed funding up to ₹25 lakh + incubation support.",
+      "how_to_apply": "Through 100+ Livelihood Business Incubators (LBIs)."
+    },
+    {
+      "scheme_name": "SFURTI (Scheme of Fund for Regeneration of Traditional Industries)",
+      "description": "Organizes artisans/clusters into cooperatives.",
+      "eligibility": "Traditional artisans (khadi, village industries, handicrafts).",
+      "benefits": "₹2.5Cr funding per cluster (infrastructure, training, marketing).",
+      "how_to_apply": "Through KVIC/State Govt. agencies."
+    },
+    {
+      "scheme_name": "PSU Procurement Policy",
+      "description": "Mandates Central PSUs to procure from MSMEs.",
+      "eligibility": "Udyam-registered MSMEs.",
+      "benefits": "25% procurement target (of total purchases) from MSMEs + 3% from women-led MSMEs.",
+      "how_to_apply": "Register on CPSEs' vendor portals + Udyam certificate."
+    },
+    {
+      "scheme_name": "International Cooperation Scheme",
+      "description": "Financial support for MSMEs participating in global trade fairs.",
+      "eligibility": "Udyam-registered MSMEs with export potential.",
+      "benefits": "75-90% subsidy on airfare/stall charges for international exhibitions.",
+      "how_to_apply": "Through MSME-DI offices with prior approval."
+    },
+    {
+        "scheme_name": "AGRI-CLUSTER (Agriculture Infrastructure Development)",
+        "description": "Develops agriculture clusters with common infrastructure for small farmers and agri-entrepreneurs.",
+        "eligibility": "Farmer Producer Organizations (FPOs), Cooperatives, Agri-entrepreneurs with minimum 5 acres land or group of 50 small farmers.",
+        "benefits": "50-75% subsidy (max ₹10Cr per cluster) for cold storage, processing units, packaging facilities.",
+        "how_to_apply": "Through NABARD or State Agriculture Departments."
+      },
+      {
+        "scheme_name": "PMFME (Pradhan Mantri Formalization of Micro Food Processing Enterprises)",
+        "description": "Supports small food processing units with technology and marketing.",
+        "eligibility": "Individual entrepreneurs/SHGs/FPOs in food processing (max investment ₹10 lakh).",
+        "benefits": "35% capital subsidy (max ₹10 lakh), branding/marketing support, training.",
+        "how_to_apply": "Online via PMFME portal (MoFPI)."
+      },
+      {
+        "scheme_name": "ATMA (Agricultural Technology Management Agency)",
+        "description": "Promotes agri-entrepreneurship through training and subsidies.",
+        "eligibility": "Farmers, rural youth, agri-graduates (18-45 years).",
+        "benefits": "50% subsidy on equipment (max ₹1 lakh), skill development programs.",
+        "how_to_apply": "Through Krishi Vigyan Kendras (KVKs)."
+      },
+      {
+        "scheme_name": "SFAC (Small Farmers' Agribusiness Consortium)",
+        "description": "Financial support for agri-startups and FPOs.",
+        "eligibility": "Registered FPOs/agri-entrepreneurs with viable business plans.",
+        "benefits": "Interest subvention (3%), credit guarantee, equity funding up to ₹50 lakh.",
+        "how_to_apply": "Through SFAC portal or NABARD."
+      },
+      {
+        "scheme_name": "NABARD Dairy Processing & Infrastructure Development Fund",
+        "description": "Subsidies for dairy processing units.",
+        "eligibility": "Dairy cooperatives/FPOs/individual entrepreneurs.",
+        "benefits": "50% subsidy (max ₹50 lakh) for milk chilling plants, packaging units.",
+        "how_to_apply": "Through NABARD regional offices."
+      },
+      {
+        "scheme_name": "NHB (National Horticulture Board) Subsidy",
+        "description": "Supports horticulture-based MSMEs (fruits, vegetables, flowers).",
+        "eligibility": "Farmers/entrepreneurs with minimum 1 acre land (0.5 acre for flowers).",
+        "benefits": "40-50% subsidy (max ₹50 lakh) for greenhouses, packhouses, nurseries.",
+        "how_to_apply": "Online via NHB portal with project report."
+      },
+      {
+        "scheme_name": "MIDH (Mission for Integrated Development of Horticulture)",
+        "description": "Comprehensive support for horticulture value chains.",
+        "eligibility": "Farmers/FPOs/SHGs for post-harvest management projects.",
+        "benefits": "35-50% subsidy for cold storage, ripening chambers, processing units.",
+        "how_to_apply": "Through State Horticulture Missions."
+      },
+      {
+        "scheme_name": "PMKSY (Per Drop More Crop - Micro Irrigation)",
+        "description": "Subsidy for drip/sprinkler irrigation systems.",
+        "eligibility": "Individual farmers/FPOs with minimum 0.5 acre land.",
+        "benefits": "55-100% subsidy (based on category) for micro-irrigation equipment.",
+        "how_to_apply": "Through State Agriculture Departments or NABARD."
+      },
+      {
+        "scheme_name": "Women Entrepreneurship Platform (WEP)",
+        "description": "NITI Aayog initiative to support women-led startups including home-food production.",
+        "eligibility": "Women entrepreneurs at any business stage (idea to scaling)",
+        "benefits": "1. Interest subsidy: 2% reduction on business loans up to ₹1 crore 2. Incubation support: 3-month free access to co-working spaces 3. Government e-Marketplace (GeM) registration priority",
+        "how_to_apply": "Register at wep.gov.in with Aadhaar and business proof"
+      },
+      {
+        "scheme_name": "KVIC – Gramodyog Vikas Yojana",
+        "description": "Support for traditional village industries like papad, pickle, and khadi products.",
+        "eligibility": "Individuals/SHGs with basic training in food processing",
+        "benefits": "1. 90% subsidy on equipment (max ₹25,000) for SC/ST/women 2. 75% subsidy for others 3. Free 15-day skill training with ₹200/day stipend",
+        "how_to_apply": "Apply at nearest KVIC office with ID and training certificates"
+      },
+      {
+        "scheme_name": "PMFME (Pradhan Mantri Formalization of Micro Food Processing Enterprises)",
+        "description": "Supports unorganized food processing units with financial and technical support.",
+        "eligibility": "Existing unregistered food units with <₹5Cr turnover",
+        "benefits": "1. 35% capital subsidy (max ₹10 lakh) 2. ₹50,000 for branding/packaging 3. Free FSSAI license assistance",
+        "how_to_apply": "Online application via pmfme.mofpi.gov.in with business proof"
+      },
+      {
+        "scheme_name": "MSE-CDP (Micro & Small Enterprises Cluster Development Programme)",
+        "description": "Develops clusters of similar enterprises for collective efficiency.",
+        "eligibility": "Groups of 20+ micro-enterprises in same sector",
+        "benefits": "1. 70% subsidy on common infrastructure (max ₹15 crore) 2. 90% subsidy for SC/ST clusters 3. ₹10 lakh marketing assistance per cluster",
+        "how_to_apply": "Submit project proposal via State MSME Directorate"
+      },
+      {
+        "scheme_name": "CGTMSE (Credit Guarantee Fund Trust for Micro and Small Enterprises)",
+        "description": "Provides collateral-free credit to micro and small enterprises.",
+        "eligibility": "Manufacturing/service enterprises with <₹5Cr turnover",
+        "benefits": "1. 85% guarantee cover for loans up to ₹5 lakh 2. 75% for ₹5-50 lakh 3. 50% for ₹50 lakh-2 crore",
+        "how_to_apply": "Apply through 150+ partner banks/NBFCs"
+      },
+      {
+        "scheme_name": "National SC-ST Hub (NSSH)",
+        "description": "Market access support for SC/ST entrepreneurs.",
+        "eligibility": "Udyam-registered SC/ST-owned enterprises",
+        "benefits": "1. 100% reimbursement on GeM registration fees 2. ₹5 lakh subsidy for product testing 3. 50% subsidy on patent filing (max ₹1 lakh)",
+        "how_to_apply": "Register at scsthub.in with caste certificate"
+      },
+      {
+        "scheme_name": "MSE-CDP (Micro & Small Enterprises Cluster Development Programme)",
+        "description": "Supports development of enterprise clusters for collective efficiency.",
+        "eligibility": "Groups of 20+ micro/small enterprises in same sector (e.g., 25 pickle makers forming a cluster)",
+        "benefits": "1. 70% subsidy on common infrastructure (max ₹15 crore) 2. 90% subsidy for SC/ST clusters 3. ₹10 lakh marketing assistance per cluster",
+        "how_to_apply": "Submit project proposal via State MSME Directorate with: a) Cluster membership list b) Land documents c) Detailed project report"
+      },
+      {
+        "scheme_name": "CGTMSE (Credit Guarantee Fund Trust for Micro and Small Enterprises)",
+        "description": "Collateral-free credit guarantee for MSME loans.",
+        "eligibility": "Manufacturing/service enterprises with <₹5Cr turnover and valid Udyam Registration",
+        "benefits": "1. 85% guarantee for loans ≤₹5 lakh 2. 75% for ₹5L-50L 3. 50% for ₹50L-2Cr 4. Annual fee: 0.75% of loan amount",
+        "how_to_apply": "Apply through 150+ partner banks (SBI, HDFC, etc.) with: a) Udyam Certificate b) KYC c) Business plan"
+      },
+      {
+        "scheme_name": "National SC-ST Hub (NSSH)",
+        "description": "Market access support for SC/ST entrepreneurs.",
+        "eligibility": "SC/ST-owned enterprises with Udyam Registration",
+        "benefits": "1. 100% GeM registration fee reimbursement 2. ₹5 lakh subsidy for product testing 3. 50% patent filing cost (max ₹1 lakh) 4. Free tender bidding training",
+        "how_to_apply": "Register at scsthub.in with: a) Caste certificate b) Udyam Registration c) Bank details"
+      },
+      {
+        "scheme_name": "PM Street Vendor's AtmaNirbhar Nidhi (PM SVANidhi)",
+        "description": "Working capital loans for urban street vendors.",
+        "eligibility": "Vendors active before March 2020 with vending certificate from Urban Local Body",
+        "benefits": "1. ₹10,000 first tranche (0% interest if repaid in 1 year) 2. ₹20,000 second tranche 3. ₹50,000 third tranche 4. 7% interest subsidy",
+        "how_to_apply": "Through municipal offices with: a) Vending ID b) Aadhaar c) Ration card"
+      },
+      {
+        "scheme_name": "Pradhan Mantri MUDRA Yojana (PMMY)",
+        "description": "Loans for non-corporate small businesses.",
+        "eligibility": "Micro-enterprises with <₹10 lakh loan requirement",
+        "benefits": "1. Shishu (≤₹50k): No collateral, 7-12% interest 2. Kishore (₹50k-5L): Minimal docs 3. Tarun (₹5L-10L): Project report needed",
+        "how_to_apply": "At any bank/NBFC with: a) Aadhaar b) Business proof c) 2 passport photos"
+      },
+      {
+        "scheme_name": "Stand-Up India",
+        "description": "Bank loans for SC/ST/women entrepreneurs.",
+        "eligibility": "First-time entrepreneurs from target groups starting manufacturing/services/trading",
+        "benefits": "1. ₹10L-1Cr loan (75% project cost) 2. 3% interest subsidy 3. Free DIC counseling 4. 7-day loan approval guarantee",
+        "how_to_apply": "At 1,200+ designated bank branches with: a) Caste/Gender certificate b) Project report c) Quotation for machinery"
+      },
+      {
+        "scheme_name": "PM Formalisation of Micro Food Processing Enterprises (PMFME)",
+        "description": "Supports micro food processing units with credit-linked subsidies.",
+        "eligibility": "Existing micro food processing units, FPOs, SHGs, and cooperatives with <₹5Cr turnover",
+        "benefits": {
+          "financial": "1. 35% capital subsidy (max ₹10 lakh) 2. Additional ₹50,000 for branding/packaging",
+          "non_financial": "1. Free FSSAI license assistance 2. Technical training"
+        },
+        "how_to_apply": "Online via pmfme.mofpi.gov.in with: a) Business proof b) Project report c) Bank details"
+      },
+      {
+        "scheme_name": "Khadi Gramodyog Vikas Yojana (KGVY)",
+        "description": "Supports traditional village industries including agarbatti and papad making.",
+        "eligibility": "Individuals/SHGs with basic training in village industries",
+        "benefits": {
+          "financial": "1. 90% subsidy on toolkits (max ₹25,000) for SC/ST/women 2. 75% for others",
+          "training": "15-day residential training with ₹200/day stipend"
+        },
+        "how_to_apply": "At KVIC offices with: a) Aadhaar b) Training certificate c) Ration card"
+      },
+      {
+        "scheme_name": "DAY-NULM (Deendayal Antyodaya Yojana - National Urban Livelihoods Mission)",
+        "description": "Poverty reduction through self-employment in urban areas.",
+        "eligibility": "Urban poor (BPL families), especially women/SC/ST",
+        "benefits": {
+          "loans": "1. ₹2 lakh individual loans at 7% interest 2. ₹10 lakh group loans",
+          "subsidy": "25-35% interest subsidy for timely repayment"
+        },
+        "how_to_apply": "Through ULBs with: a) BPL card b) Aadhaar c) Business proposal"
+      },
+      {
+        "scheme_name": "NRLM (National Rural Livelihoods Mission)",
+        "description": "Promotes self-employment among rural poor through SHGs.",
+        "eligibility": "Rural BPL families organized into SHGs",
+        "benefits": {
+          "credit": "1. ₹3 lakh revolving fund per SHG 2. ₹10 lakh cluster loans",
+          "training": "Free skill development programs"
+        },
+        "how_to_apply": "Through Village Organizations with: a) SHG membership proof b) Bank account"
+      },
+      {
+        "scheme_name": "NABARD Self-Employment Scheme",
+        "description": "Financing for rural non-farm enterprises.",
+        "eligibility": "Rural entrepreneurs (18-50 years) with project cost <₹10 lakh",
+        "benefits": {
+          "subsidy": "25% subsidy (max ₹1.25 lakh) for general, 35% (max ₹1.75 lakh) for SC/ST/women",
+          "repayment": "5-7 year repayment period with 6-month moratorium"
+        },
+        "how_to_apply": "At RRBs with: a) Project report b) Land documents c) Caste certificate (if applicable)"
+      },
+      {
+        "scheme_name": "Support to Training and Employment Programme for Women (STEP)",
+        "description": "Skill development for women's employability.",
+        "eligibility": "Women >16 years from BPL families",
+        "benefits": {
+          "training": "3-12 month courses in 10+ sectors (food processing, handicrafts etc.)",
+          "stipend": "₹10,000-15,000 during training period"
+        },
+        "how_to_apply": "Through registered NGOs with: a) Aadhaar b) BPL certificate c) 10th pass marksheet"
+      },
+      {
+        "scheme_name": "Rural Self Employment Training Institutes (RSETIs)",
+        "description": "Skill training for rural youth.",
+        "eligibility": "Rural youth (18-45 years) with 8th pass education",
+        "benefits": {
+          "courses": "30+ trades (agriculture, tailoring, electronics etc.)",
+          "support": "1. Free residential training 2. ₹10,000 seed money post-training"
+        },
+        "how_to_apply": "At DRDA offices with: a) Aadhaar b) Ration card c) 2 passport photos"
+      }
+  ]
